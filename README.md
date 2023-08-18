@@ -18,17 +18,22 @@ Here are some ideas to get you started:
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)-->
 <!--Lenguajes -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 
 
-<h3> My GitHub Stats 🔭</h3>
+<h3 align="center"> My GitHub Stats 🔭</h3>
 
 <!--Estadísticas con letra -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<span align="left">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</span>
 
 <!--Lenguajes mas usados-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<span align="right">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</span>
 <!--Estadísticas fire icon -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeJGT&theme=radical)](https://git.io/streak-stats)
+<span align="left">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeJGT&theme=radical)](https://git.io/streak-stats)
+</span>
