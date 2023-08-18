@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 <!--Header image:-->
 ![Full Stack Developer](https://github.com/MikeJGT/MikeJGT/blob/ed8cba979b6b7360b6d25d9e5d0c3fcfc89c898a/banner.png)
 
-<br />
+<!--br />
 
-<p align="left"> Hi there! 👋</p>
+<p align="left"> Hi there! 👋</p-->
 
 <!--Lenguajes -->
 <br/>
