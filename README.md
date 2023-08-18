@@ -30,12 +30,8 @@ Here are some ideas to get you started:
 <!--Estadísticas fire icon -->
 
 <div>
-  <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical&card_width=350" />
-  </p>
-  <p align="rigth">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikeJGT&theme=radical&card_width=350" />  
-      </p>
 </div>
 
 <p align="center">
