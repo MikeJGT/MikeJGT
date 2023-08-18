@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <!--Estadísticas fire icon -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeJGT&theme=radical)](https://git.io/streak-stats)
 
-<div style="display:flex;">
-<img src="https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie&theme=radical" />  
+<div style="width:100%;display:flex;">
+<img style="display:block;width:50%" src="https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical" />
+<img style="display:block;width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie&theme=radical" />  
 </div>
 
