@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 <!--Estadísticas con letra -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeJGT&theme=radical&show_icons=true)
 <!--Lenguajes mas usados-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&theme=radical&layout=pie)](https://github.com/MikeJGT/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGTl&layout=pie)](https://github.com/MikeJGT/github-readme-stats)
 <!--Estadísticas fire icon -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeJGT&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeJGT)](https://git.io/streak-stats)
