@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--Header image:-->
-[![Full Stack Developer](https://github.com/MikeJGT/MikeJGT/blob/ed8cba979b6b7360b6d25d9e5d0c3fcfc89c898a/banner.png)]
+![Full Stack Developer](https://github.com/MikeJGT/MikeJGT/blob/ed8cba979b6b7360b6d25d9e5d0c3fcfc89c898a/banner.png)
 
 
 <!--Lenguajes -->
@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 
 <h3> My GitHub Stats 🔭</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)(https://github.com/anuraghazra/github-readme-stats)
 <!--Estadísticas con letra -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeJGT)](https://github.com/MikeJGT)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeJGT)(https://github.com/MikeJGT)
 <!--Lenguajes mas usados-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie)](https://github.com/MikeJGT)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie)(https://github.com/MikeJGT)
 <!--Estadísticas fire icon -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeJGT)](https://github.com/MikeJGT/MikeJGT)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeJGT)(https://github.com/MikeJGT/MikeJGT)
