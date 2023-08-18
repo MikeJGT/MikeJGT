@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!--Estadísticas con letra -->
 
-<p><span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</span><span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</span></p>
+<div><a href="#" target="_blank">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</a><a href="#" target="_blank">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</a></div>
 
 <!--Lenguajes mas usados-->
 
