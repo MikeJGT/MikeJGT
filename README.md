@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 <h3 align="center"> My GitHub Stats 🔭</h3>
 
-<div style="display:flex;">
 <!--Estadísticas con letra -->
+
+<div style="display:flex;">
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--Lenguajes mas usados-->
