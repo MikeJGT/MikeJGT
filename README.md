@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3 align="center"> My GitHub Stats 🔭</h3>
 
 <!--Estadísticas con letra -->
-<div>
+<div style="display:flex;">
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 </div>
 
 <!--Estadísticas fire icon -->
-<span>
+
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeJGT&theme=radical)](https://git.io/streak-stats)
-</span>
+
