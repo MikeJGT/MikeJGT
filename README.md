@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--Header image:-->
-[![MasterHead](https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg)](https://github.com/MikeJGT)
+[![MasterHead](https://raw.githubusercontent.com/MikeJGT/MikeJGT/banner.png)](https://github.com/MikeJGT)
 
 <!--Lenguajes -->
 <h3 align="left">Languages and Tools:</h3>
