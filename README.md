@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <!--Estadísticas fire icon -->
 
-<div style="width:100%;display:flex;">
-<img style="display:block;max-width:45% !important;heigth:75px !important;" src="https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical" />
-<img style="display:block;max-width:45% !important;heigth:75px !important;" src="https://github-readme-streak-stats.herokuapp.com/?user=MikeJGT&theme=radical" />  
-<img style="display:block;width:50% !important;heigth:75px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=compact&theme=radical" />  
+<div style="width:100 %;display:flex;">
+<img style="display:block;max-width:45 % !important;heigth:75 px !important;" src="https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical" />
+<img style="display:block;max-width:45 % !important;heigth:75 px !important;" src="https://github-readme-streak-stats.herokuapp.com/?user=MikeJGT&theme=radical" />  
+<img style="display:block;width:50 % !important;heigth:75 px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=compact&theme=radical" />  
 </div>
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeJGT&theme=radical)](https://git.io/streak-stats)-->
