@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 <h3 align="center"> My GitHub Stats 🔭</h3>
 
 <!--Estadísticas con letra -->
-<div style="display:flex;">
+
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--Lenguajes mas usados-->
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie&theme=radical&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--Estadísticas fire icon -->
 
