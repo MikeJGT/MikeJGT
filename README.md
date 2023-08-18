@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 
 <div style="display:flex;">
 <img src="https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie&theme=radical" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=compact&theme=radical" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MikeJGT&theme=radical" />  
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeJGT&theme=radical)](https://git.io/streak-stats)
+
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeJGT&theme=radical)](https://git.io/streak-stats)-->
 
