@@ -38,5 +38,5 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true" />
+  <img style="max-width:100px" src="https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true" />
 </picture>
