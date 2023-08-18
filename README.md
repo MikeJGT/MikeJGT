@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <h3 align="center"> My GitHub Stats 🔭</h3>
 
 <!--Estadísticas con letra -->
-<div style="width: 100%;display: flex;">
-  <div style="width: 45%;">
+<div style="width: 100%;height:auto;display:flex;">
+  <div style="width: 45%">
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
   </div>
 
