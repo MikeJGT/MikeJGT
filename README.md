@@ -33,16 +33,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeJGT&theme=radical)](https://git.io/streak-stats)
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie&theme=radical" />
+
