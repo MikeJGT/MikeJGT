@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 [![MasterHead](your image link)](your GitHub link)
 
 <!--Lenguajes -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="c" width="40" height="40"/> Javascript </a> </p>
 
 
 <h3 align="center"> My GitHub Stats 🔭</h3>
 <!--Estadísticas con letra -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeJGT&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical)
 <!--Lenguajes mas usados-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGTl&layout=pie)](https://github.com/MikeJGT/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie&theme=radical)](https://github.com/MikeJGT/github-readme-stats)
 <!--Estadísticas fire icon -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeJGT)](https://git.io/streak-stats)
