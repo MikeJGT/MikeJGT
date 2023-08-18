@@ -24,11 +24,23 @@ Here are some ideas to get you started:
 <h3 align="center"> My GitHub Stats 🔭</h3>
 
 <!--Estadísticas con letra -->
-
-<div><a href="#" target="_blank">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</a><a href="#" target="_blank">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</a></div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Lenguajes mas usados-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Estadísticas fire icon -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeJGT&theme=radical)](https://git.io/streak-stats)
 
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MikeJGT&show_icons=true" />
+</picture>
