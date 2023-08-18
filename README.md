@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--Header image:-->
-[![MasterHead](https://raw.githubusercontent.com/MikeJGT/MikeJGT/banner.png)](https://github.com/MikeJGT)
+<span>![</span><span>Full Stack Developer</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/MikeJGT/MikeJGT/banner.png</span><span>)</span>
 
 <!--Lenguajes -->
 <h3 align="left">Languages and Tools:</h3>
