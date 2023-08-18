@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <!--Lenguajes mas usados-->
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie&theme=radical&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie&theme=radical&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--Estadísticas fire icon -->
