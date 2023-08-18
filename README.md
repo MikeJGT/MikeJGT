@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MikeJGT/MikeJGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left"> My GitHub Stats 🔭</h3>
+<h3> My GitHub Stats 🔭</h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--Estadísticas con letra -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeJGT)](https://github.com/MikeJGT)
