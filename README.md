@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--Header image:-->
-[![MasterHead](your image link)](your GitHub link)
+[![MasterHead](https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg)](https://github.com/MikeJGT)
 
 <!--Lenguajes -->
 <h3 align="left">Languages and Tools:</h3>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3 align="left"> My GitHub Stats 🔭</h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--Estadísticas con letra -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeJGT)](https://github.com/MikeJGT/MikeJGT)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeJGT)](https://github.com/MikeJGT)
 <!--Lenguajes mas usados-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJGT&layout=pie)](https://github.com/MikeJGT)
 <!--Estadísticas fire icon -->
