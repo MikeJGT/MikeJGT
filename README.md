@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<p align="left"> Hi there! 👋 Bienvenidos a mi github, aquí veréis algunos de mis proyectos no son todos pero sí los más relevantes. Si alguno os sirve sentiros libres de darle a fork⚡ </p>
+<p align="left">Bienvenidos a mi github 👋, aquí veréis algunos de mis proyectos no son todos pero sí los más relevantes. Si alguno os sirve sentiros libres de darle a fork⚡ </p>
 
 <!--Lenguajes -->
 <br/>
